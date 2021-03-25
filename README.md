@@ -11,7 +11,10 @@ If you want to get in contact with me, you can reach me on [Twitter](https://twi
 
 ## My github stats
 ![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongar23&theme=blue-green&show_icons=true)  
+[![Mathias' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongar23&theme=blue-green&show)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## My github thropies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mongar23&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
