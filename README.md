@@ -10,7 +10,8 @@ Hi, my name is Mathias Bevers, I am a 20 y.o. game-programmer student from the E
 If you want to get in contact with me, you can reach me on [Twitter](https://twitter.com/mathiasbevers), [LinkedIn](https://www.linkedin.com/in/mathiasbevers) or [Discord](https://discordapp.com/users/352517116139798528). I am open to questions about Unity3D or project collaborations. 
 
 ## My github stats
-![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongar23&theme=blue-green&show_icons=true&count_private=true)    
+[![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongar23&theme=blue-green&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongar23&theme=blue-green&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
