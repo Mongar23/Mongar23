@@ -1,4 +1,4 @@
-# Hello! Welcom to my github page
+# Hello! I am Mathias and welcom to my github page
 - Game-programmer student
 - MBO 4 GameDeveloper, last year.
 - Enschede area
