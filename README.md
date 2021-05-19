@@ -11,13 +11,7 @@ If you want to get in contact with me, you can reach me on [Twitter](https://twi
 
 ## My github stats
 [![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongar23&theme=blue-green&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongar23&theme=blue-green&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongar23&theme=blue-green&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## My github thropies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mongar23&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-[github readme stats](https://github.com/anuraghazra/github-readme-stats) made by [@anuraghazra](https://github.com/anuraghazra).  
-[github profile thropy](https://github.com/ryo-ma/github-profile-trophy) made by [@ryo-ma](https://github.com/ryo-ma).
+[github readme stats](https://github.com/anuraghazra/github-readme-stats) made by [@anuraghazra](https://github.com/anuraghazra).
