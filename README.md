@@ -16,8 +16,8 @@ If you want to get in contact with me, you can reach me on
 [![Dicord](https://img.shields.io/badge/LinkedIn-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528).</br> 
 I am open to questions about Unity3D or project collaborations.
 
-<p align="left">[![GitHub followers](https://img.shields.io/github/followers/Mongar23.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mongar23?tab=followers)
-![Profile views](https://gpvc.arturio.dev/Mongar23)</p>
+[![GitHub followers](https://img.shields.io/github/followers/Mongar23.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mongar23?tab=followers)
+![Profile views](https://gpvc.arturio.dev/Mongar23)
 
 
 ## My github stats
