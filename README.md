@@ -12,7 +12,7 @@ Hi, my name is Mathias Bevers, I am a 20 y.o. game-programmer student from the E
 ## Contact
 If you want to get in contact with me, you can reach me on 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mathiasbevers-white?style=flat&logo=twitter&labelColor=7fff00)](https://twitter.com/mathiasbevers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/mathiasbevers-white?style=flat&logo=LinkedIn&labelColor=7fff00)](https://www.linkedin.com/mathiasbevers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/mathiasbevers-white?style=flat&logo=LinkedIn&labelColor=7fff00&logoColor=0e76a8)](https://www.linkedin.com/mathiasbevers)
 [![Dicord](https://img.shields.io/badge/LinkedIn-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528).</br> 
 I am open to questions about Unity3D or project collaborations.
 
