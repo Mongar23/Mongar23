@@ -4,7 +4,7 @@
 - Enschede area
 
 ## Sort story about my self
-Hi, my name is Mathias Bevers, I am a 20 y.o. game-programmer student from the Enschede area. I just graduated the game developer(MBO 4) study and next school year I will be attending the CMGT course at Saxion. The focus of the game developer study was to develop games in Unity3D. I'm very enthusiastic about developing games and exploring new programming topics. 
+Hi, my name is Mathias Bevers, I am a 20 y.o. game-programmer student from the Enschede area. I am a graduate of the MBO 4 gamedevelopment study of ROC van Twente. Currenly I am studying Creative Media and Game Technologies at Saxion. The focus of the gamedevelopment study was to develop games in Unity3D. I'm very enthusiastic about developing games and exploring new programming topics. 
 
 ## Languages and tools
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
