@@ -1,10 +1,11 @@
-# Hello! I am Mathias and welcome to my github page
-- Game-programmer student
-- MBO 4 GameDeveloper, last year.
+# Hello! I am Mathias <br/> Welcome to my github page
+- Game-engineering student.
+- Bachelor Creative Media and Game Technoligies, first year.
+- Game-developer MBO 4 alumni.
 - Enschede area
 
 ## Sort story about my self
-Hi, my name is Mathias Bevers, I am a 20 y.o. game-programmer student from the Enschede area. I am a graduate of the MBO 4 gamedevelopment study of ROC van Twente. Currenly I am studying Creative Media and Game Technologies at Saxion. The focus of the gamedevelopment study was to develop games in Unity3D. I'm very enthusiastic about developing games and exploring new programming topics. 
+Hi, my name is Mathias Bevers, I am a 21 y.o. game-programmer student from the Enschede area. I am a alumni of the MBO 4 game-developer study of ROC van Twente, the focus of this study was to develop games in Unity3D. Currenly I am studying Creative Media and Game Technologies at Saxion - University of Applied Science. I'm very enthusiastic about developing games and exploring new programming topics. 
 
 ## Languages and tools
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
@@ -14,7 +15,7 @@ I am open to questions about Unity3D or project collaborations.<br/>
 If you want to get in contact with me, you can reach me on:<br/>
 [![Twitter](https://img.shields.io/badge/Twitter-%40mathiasbevers-white?style=flat&logo=twitter&labelColor=7fff00)](https://twitter.com/mathiasbevers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/mathiasbevers-white?style=flat&logo=LinkedIn&labelColor=7fff00&logoColor=0e76a8)](https://www.linkedin.com/mathiasbevers)
-[![Dicord](https://img.shields.io/badge/LinkedIn-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528)
+[![Dicord](https://img.shields.io/badge/Discord-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528)
 [![GitHub followers](https://img.shields.io/github/followers/Mongar23.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mongar23?tab=followers).
 
 ## My github stats
