@@ -17,11 +17,11 @@ If you want to get in contact with me, you can reach me on:<br/>
 [![Twitter](https://img.shields.io/badge/Twitter-%40mathiasbevers-white?style=flat&logo=twitter&labelColor=7fff00)](https://twitter.com/mathiasbevers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/mathiasbevers-white?style=flat&logo=LinkedIn&labelColor=7fff00&logoColor=0e76a8)](https://www.linkedin.com/mathiasbevers)
 [![Dicord](https://img.shields.io/badge/Discord-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528)
-[![GitHub followers](https://img.shields.io/github/followers/Mongar23.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mongar23?tab=followers).
+[![GitHub followers](https://img.shields.io/github/followers/mathias-bevers.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathias-bevers?tab=followers).
 
 ## My github stats
-[![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongar23&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-bevers&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongar23&theme=chartreuse-dark&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-bevers&theme=chartreuse-dark&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
 [github readme stats](https://github.com/anuraghazra/github-readme-stats) made by [@anuraghazra](https://github.com/anuraghazra).
