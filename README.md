@@ -1,11 +1,11 @@
 # Hello! I am Mathias <br/> Welcome to my github page
-- Game-engineering student
-- Bachelor Creative Media and Game Technologies, first year.
-- MBO4 game-developer, alumni.
+- Game-engineering student.
+- Bachelor Creative Media and Game Technologies, 2021-2025, student.
+- MBO4 game-developer, 2017-2021, alumni.
 - Enschede area
 
 
-## Sort story about my self
+## Short story about my self
 Hi, my name is Mathias Bevers, I am a 21 y.o. game-engineering student from the Enschede area. I am a alumni of the MBO 4 game-developer study of ROC van Twente, the focus of this study was to develop games in Unity3D. Currently I am studying Creative Media and Game Technologies at Saxion - University of Applied Science. I'm very enthusiastic about developing games and exploring new programming topics.
 
 ## Protfolio Website
