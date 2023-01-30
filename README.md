@@ -6,7 +6,7 @@
 
 
 ## Short story about my self
-Hi, my name is Mathias Bevers, I am a 21 y.o. game-engineering student from the Enschede area. I am a alumni of the MBO 4 game-developer study of ROC van Twente, the focus of this study was to develop games in Unity3D. Currently I am studying Creative Media and Game Technologies at Saxion - University of Applied Science. I'm very enthusiastic about developing games and exploring new programming topics.
+Hi, my name is Mathias Bevers, I am a 22 y.o. game-engineering student from the Enschede area. I am a alumni of the MBO 4 game-developer study of ROC van Twente, the focus of this study was to develop games in Unity3D. Currently I am studying Creative Media and Game Technologies at Saxion - University of Applied Science. I'm very enthusiastic about developing games and exploring new programming topics.
 
 ## Protfolio Website
 If you want to see more about me and my projects checkout my portfolio website [here](https://mathias-bevers.github.io/). 
@@ -25,8 +25,13 @@ If you want to get in contact with me, you can reach me on:<br/>
 [![Dicord](https://img.shields.io/badge/Discord-%40Mongar23%234578-white?style=flat&logo=discord&labelColor=7fff00)](https://discordapp.com/users/352517116139798528)
 
 ## My github stats
-[![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-bevers&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-bevers&theme=chartreuse-dark&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" width="100%">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mathias-bevers&theme=chartreuse-dark&show_icons=true&count_private=true"  height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-bevers&theme=chartreuse-dark&layout=compact&hide=shaderlab,hlsl" height="200"/>
+    </br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=chartreuse-dark&layout=compact" width="75%"/>
+  </a>
+</p>
 
 [github readme stats](https://github.com/anuraghazra/github-readme-stats) made by [@anuraghazra](https://github.com/anuraghazra).
