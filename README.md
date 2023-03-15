@@ -30,7 +30,7 @@ If you want to get in contact with me, you can reach me on:<br/>
     <img src="https://github-readme-stats.vercel.app/api?username=mathias-bevers&theme=chartreuse-dark&show_icons=true&count_private=true"  height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-bevers&theme=chartreuse-dark&layout=compact&hide=shaderlab,hlsl" height="200"/>
     </br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mongar23&theme=chartreuse-dark&layout=compact" width="75%"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mathiasbevers&theme=chartreuse-dark&layout=compact" width="75%"/>
   </a>
 </p>
 
